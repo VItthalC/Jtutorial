@@ -1,5 +1,3 @@
-package test;
-
 public class test {
 	static String s2;
 	public static void main(String[] args) {
